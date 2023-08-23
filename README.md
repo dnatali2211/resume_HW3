@@ -4,7 +4,7 @@
 
 *Санкт-Петербург*
 
-![foto](IMG_0309.JPG)
+![foto](files/IMG_0309.JPG)
 
 ## Образование:
 
@@ -21,53 +21,53 @@
 ***Повышение квалификации***
 1. Управление кадрами на предприятии (профессиональная переподготовка), 2012г.
 2. Кадровые изменения, 2012г.
-![kadry2012](Kadry2012.jpeg)
+![kadry2012](files/Kadry2012.jpeg)
 1. Охрана труда работников организаций, 2012г.
-![ohrana_truda](ohrana_truda.jpeg)
+![ohrana_truda](files/ohrana_truda.jpeg)
 1. Основы электробезопасности, 2012г.
-![electro](electro.jpeg)
+![electro](files/electro.jpeg)
 1. Основы пожарной безопасности, 2013г.
-![pozharka](pozharka.jpeg)
+![pozharka](files/pozharka.jpeg)
 1. Все о прохождении инспекционной проверки по труду. Судебная практика, 2013г.
- ![trudovye_spory](trudovye_spory.jpeg)  
+ ![trudovye_spory](files/trudovye_spory.jpeg)  
 1. Кадровик XXI века: секреты эффективной работы, 2013г.
-![secrety_kadry](secrety_kadry.png)
+![secrety_kadry](files/secrety_kadry.png)
 1. Кадровые изменения, 2013г.
-![kadry2013](kadry2013.jpeg)
+![kadry2013](files/kadry2013.jpeg)
 1. Персональные данные: как не нарушить закон, 2013г.
-![pnd2013](pnd2013.jpeg)
+![pnd2013](files/pnd2013.jpeg)
 1.   Подготовительные курсы по русскому языку, истории и обществознанию в РГПУ им А.И. Герцена, 2014г.
-![gercena](gercena.jpeg)
+![gercena](files/gercena.jpeg)
 1.  Кадровая работа: как учесть свежие изменения законодательства, 2014г.
-![kadry2014](kadry2014.jpeg)
+![kadry2014](files/kadry2014.jpeg)
 1.   Антикоррупционная деятельность в государственных учреждениях, 2015г.
-![anticorruption](anticorruption.jpeg)
+![anticorruption](files/anticorruption.jpeg)
 1.  Воинский учет и мобилизационная подготовка в государственных учреждениях, 2015г.
-![voinuchet](voinuchet.jpeg)
+![voinuchet](files/voinuchet.jpeg)
 1.  Прохождение оценки квалификации и включение в профессиональный реестр, 2016г.
-![profReestr](reestrProf.png)
+![profReestr](files/reestrProf.png)
 1.  Единая система электронного документооборота и делопроизводства исполнительных органах государственной власти Санкт-Петербурга, 2016г.
-![eced](eced.jpeg)
+![eced](files/eced.jpeg)
 1.  КонсультантПлюс, 2016г.
-![konsPlus](konsPlus.jpeg)
+![konsPlus](files/konsPlus.jpeg)
 1.   Новейшие изменения в работе с персональными данными, 2017г.
-![pnd2017](pnd2017.jpeg)
+![pnd2017](files/pnd2017.jpeg)
 1.   Участие в физкультурно-спортивном комплексе "ГТО", 2017г.
-![gto](gto.jpeg)
+![gto](files/gto.jpeg)
 1.  Награждение Грамотой СПб ГКУ "Централизованная бухгалтерия Василеостровского района", 2017г.
-![gramotaCB](gramotaCB.jpeg)
+![gramotaCB](files/gramotaCB.jpeg)
 1.   Внедрение профессиональных стандартов в государственных учреждениях, 2018г.
-![profstandart](profstandart.jpeg)
+![profstandart](files/profstandart.jpeg)
 1.   Мобилизационная подготовка в организациях, 2018г.
-![mobilizaciya](mobilizaciya.jpeg)
+![mobilizaciya](files/mobilizaciya.jpeg)
 1.    Ручное тестирование веб-приложений, 2023г.
-![ruchnoeTest](ruchnoe_test.png)
+![ruchnoeTest](files/ruchnoe_test.png)
 1.  Git - система контроля версий, 2023г.
-![git](git.png)
+![git](files/git.png)
 1.  Java для тестировщиков, 2023г.
-![java](java.png)
+![java](files/java.png)
 1.  Автоматизированное тестирование, 2023г.
-![autotest](autotest.png)
+![autotest](files/autotest.png)
 
 ## Общий стаж работы:
 Более 10 лет. С 2019г. по 2022г. находилась в отпуске по уходу за ребенком.
