@@ -77,7 +77,7 @@
 30. Тестирование безопасности, 2024г.
 ![safety](files/safety.png)
 31. Инженер по тестированию: с нуля до middle, 2024г.
-![final](files/final_certificate.jpeg)
+![final](files/final_certificate.png)
 
 ## Общий стаж работы:
 Более 10 лет. С 2019г. по 2022г. находилась в отпуске по уходу за ребенком.
