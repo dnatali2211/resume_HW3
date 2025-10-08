@@ -78,6 +78,10 @@
 ![safety](files/safety.png)
 31. Инженер по тестированию: с нуля до middle, 2024г.
 ![final](files/final_certificate.png)
+32. ES Dubai. Intermediate (B1+), 2025г.
+![B1](files/B1.png)
+33. ES Dubai. Upper-Intermediate (B2), 2025г.
+![B2](files/B2.png)
 
 ## Общий стаж работы:
 Более 10 лет. С 2019г. по 2022г. находилась в отпуске по уходу за ребенком.
