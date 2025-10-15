@@ -78,9 +78,11 @@
 ![safety](files/safety.png)
 31. Инженер по тестированию: с нуля до middle, 2024г.
 ![final](files/final_certificate.png)
-32. ES Dubai. Intermediate (B1+), 2025г.
+32. Специалист по тестированию в области информационных технологий, 2024г.
+![diplomaQA](files/diplomaQA.png)
+33. ES Dubai. Intermediate (B1+), 2025г.
 ![B1](files/B1.png)
-33. ES Dubai. Upper-Intermediate (B2), 2025г.
+34.  ES Dubai. Upper-Intermediate (B2), 2025г.
 ![B2](files/B2.png)
 
 ## Общий стаж работы:
