@@ -84,6 +84,8 @@
 ![B1](files/B1.png)
 34.  ES Dubai. Upper-Intermediate (B2), 2025г.
 ![B2](files/B2.png)
+35. AI-Smart. Artificial Intelligence and Neural Networks, 2026г.
+![AI](AI_certificate.png)
 
 ## Общий стаж работы:
 Более 10 лет. С 2019г. по 2022г. находилась в отпуске по уходу за ребенком.
